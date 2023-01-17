@@ -1,0 +1,12 @@
+/*Utility classes  */
+.text-center{
+  text-align: center;
+}
+.btn{
+  height: 55px;
+  width: 55px;
+  margin: 3px;
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
